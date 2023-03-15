@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Print("Hellow Wurld")
+	fmt.Print("Hello Wurld")
 }
 
